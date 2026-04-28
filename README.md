@@ -85,9 +85,9 @@ Why are FDE revenues decreasing despite increased water production and high paym
 ## 📈 Model Performance
 | Model | RMSE | Notes |
 |------|------|------|
-| Ridge | ~13 | Best overall |
-| Lasso | ~430 | Less stable |
-| Neural Network | ~1350 | Improved after feature selection |
+| Ridge | 13 | Best overall |
+| Lasso | 430 | Less stable |
+| Neural Network | 1350 | Improved after feature selection |
 
 ---
 

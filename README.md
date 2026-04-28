@@ -139,7 +139,7 @@ This project provides a **robust analytical framework** to:
 ---
 
 ## 👤 Author
-**Mutua Vundi**  
-Data Scientist
+**Alex Mutua**  
+Msc Data Science, AIMS - Senegal
 
 ---

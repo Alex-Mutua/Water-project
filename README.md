@@ -1,19 +1,19 @@
-# 💧 Optimizing Revenue Management for Sustainable Water Distribution  
+#  Optimizing Revenue Management for Sustainable Water Distribution  
 ### QUATECH Senegal – Customer Data Analysis
 
-## 📌 Overview
+##  Overview
 This project analyzes the decline in **Water Development Fund (FDE)** revenues at QUATECH Senegal despite increasing water production.
 
 A **data-driven approach** is used to uncover key drivers of revenue decline and support strategic decision-making.
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 Why are FDE revenues decreasing despite increased water production and high payment compliance?
 
 ---
 
-## 🚀 Objectives
+##  Objectives
 - Segment subscribers based on **consumption and payment behavior**
 - Analyze **billing and payment trends**
 - Identify key factors driving **FDE revenue decline**
@@ -33,7 +33,7 @@ Why are FDE revenues decreasing despite increased water production and high paym
 
 ---
 
-## 🧹 Data Preprocessing
+##  Data Preprocessing
 - Renamed variables for clarity  
 - Converted date and monetary fields  
 - Handled missing values (`PAY_DATE` retained for delay analysis)  
@@ -45,7 +45,7 @@ Why are FDE revenues decreasing despite increased water production and high paym
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 - FDE revenue **peaked in 2017**, declined sharply after  
 - **94.5% pay on time**, but revenue still drops  
 - **Administrative customers consume ~87.5%** of water  
@@ -57,7 +57,7 @@ Why are FDE revenues decreasing despite increased water production and high paym
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 ### 1. Exploratory Data Analysis (EDA)
 - Trend analysis (FDE over time)
 - Payment behavior analysis
@@ -91,7 +91,7 @@ Why are FDE revenues decreasing despite increased water production and high paym
 
 ---
 
-## 💡 Key Findings
+##  Key Findings
 - Revenue decline is **not driven by payment rates**
 - Likely drivers:
   - High consumption concentration (Admin users)
@@ -100,7 +100,7 @@ Why are FDE revenues decreasing despite increased water production and high paym
 
 ---
 
-## 📌 Recommendations
+##  Recommendations
 ### Revenue Optimization
 - Target **high-consumption administrative users**
 - Implement **payment monitoring & incentives**
@@ -128,10 +128,9 @@ Why are FDE revenues decreasing despite increased water production and high paym
 - Deep Learning: TensorFlow / Keras
 - Statistics: Statsmodels, SciPy
 
-- 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 This project provides a **robust analytical framework** to:
 - Understand FDE revenue decline
 - Identify high-impact customer segments
@@ -144,5 +143,3 @@ This project provides a **robust analytical framework** to:
 Data Scientist
 
 ---
-
-## 📁 Project Structure

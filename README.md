@@ -22,7 +22,7 @@ Why are FDE revenues decreasing despite increased water production and high paym
 ---
 
 ## 📊 Dataset
-- **Size:** ~1.14M records, 23 features  
+- **Size:** 1.14M records, 23 features  
 - **Period:** 2014 – 2019  
 - **Region:** Saint-Louis (Region 4)  
 - Includes:

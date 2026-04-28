@@ -121,7 +121,7 @@ Why are FDE revenues decreasing despite increased water production and high paym
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python (Pandas, NumPy)
 - Visualization: Matplotlib, Seaborn, Plotly
 - Machine Learning: Scikit-learn
